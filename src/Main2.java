@@ -27,5 +27,10 @@ public class Main2 {
         // short: 2byte = 16bits =>
         float f = 2.0F;
         double d = 2.0;
+        /*
+        Step 1: git add .
+        Step 2: git commit -m "Your message"
+        Step 3: git push
+         */
     }
 }
