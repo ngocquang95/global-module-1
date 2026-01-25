@@ -14,6 +14,30 @@ public class Exercise1C {
         %c: char
         %s: String
          */
+        System.out.println("Hello world!!!");
+        System.out.println("Hello world!!!");
+        System.out.println("Hello world!!!");
+        System.out.println("Hello world!!!");
+        System.out.println("Hello world!!!");
+        System.out.println("Hello world!!!");
+        System.out.println("Hello world!!!");
+        System.out.println("Hello world!!!");
+        System.out.println("Hello world!!!");
+        System.out.println("Hello world!!!");
+        System.out.println("Hello world!!!");
+        System.out.println("Hello world!!!");
+        System.out.println("Hello world!!!");
+        System.out.println("Hello world!!!");
+        System.out.println("Hello world!!!");
+        System.out.println("Hello world!!!");
+        System.out.println("Hello world!!!");
+        System.out.println("Hello world!!!");
+        System.out.println("Hello world!!!");
+        System.out.println("Hello world!!!");
+        System.out.println("Hello world!!!");
+        System.out.println("Hello world!!!");
+        System.out.println("Hello world!!!");
+        System.out.println("Hello world!!!");
         quadraticEquation(1, 20, 3);
         // x1: -19.848857801796104 => x1: -19.85
     }
